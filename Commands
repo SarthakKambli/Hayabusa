@@ -1,0 +1,2 @@
+#command to save the Output of EVTX file based  on sigma rules match.
+hayabusa.exe csv-timeline -f <path to your EVTX file> -o <path to the output File>
